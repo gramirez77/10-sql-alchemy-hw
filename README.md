@@ -4,4 +4,6 @@ This is the homework for Week 10 of UNC Data Analytics Bootcamp (SQLAlchemy). Ma
 * `climate.ipnyb`: a Jupyter notebook with step 1 resolution (SQLAlchemy practice).
 * `climate_app.py`: Standalone Python file with step 2 resolution (Flask+SQLAlchemy practice).
 
+All the optional challenges were completed as well.
+
 --Gilberto Ramirez (gramirez77@gmail.com)
